@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_param_map">
+    <sys_sg_screen_param_map action="INSERT_OR_UPDATE">
+        <item_parameter display_value="Start date">c651a979db3233000a2f7a6139961938</item_parameter>
+        <screen display_value="My Open NeedIt Requests">e64e3094db7233000a2f7a61399619cd</screen>
+        <sys_class_name>sys_sg_screen_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-23 01:18:11</sys_created_on>
+        <sys_id>7122a179db3233000a2f7a61399619a9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>c651a979db3233000a2f7a6139961938</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_sg_screen_param_map_7122a179db3233000a2f7a61399619a9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-23 01:18:11</sys_updated_on>
+        <ui_parameter display_value="Start date">75f12db9db3233000a2f7a613996199c</ui_parameter>
+    </sys_sg_screen_param_map>
+</record_update>
